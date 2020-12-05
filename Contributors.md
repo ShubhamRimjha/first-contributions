@@ -37,6 +37,7 @@
 - [Paulson J Paul](https://github.com/paulsonjpaul)
 - [Alioune Diagne](https://github.com/Alioune98)
 - [Omoigui Efosa Abel](https://github.com/efosaomoigu)
+- [Shubham Rimjha](https://github.com/ShubhamRimjha)
 - [Sarvesh SP](https://github.com/Sarvesh-SP)
 - [Eduardo Neto](https://github.com/pyduh)
 - [Tasnim Ahmed](https://github.com/ktat-93)
