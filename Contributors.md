@@ -44,7 +44,6 @@
 - [Michael Meixner](https://github.com/ogMikkel)
 - amlan
 - [Leevi Andrews](https://github.com/leeviaa)
-- [Shubham Rimjha](https://github.com/ShubhamRimjha)
 - [vamsi]
 - [Milan Zagorac](https://github.com/milzags)
 - [Shreyas Garud](https://github.com/shreyasGarud)
